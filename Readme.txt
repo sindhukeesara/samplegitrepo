@@ -4,3 +4,4 @@ I am developing new feature branch2
 I am developing new feature branch3
 testing with jenkins
 checking with Poll SCM
+checking with poll SCM2
